@@ -4,13 +4,13 @@
 This project analyzes datasets about Netflix content, including titles, genres, actors, and release years. The goal is to uncover trends and patterns in streaming content, especially how Netflix evolved over time and what factors influence its content.
 
 ## Requirements:
-- **os:** forcreating directories and manage file paths
+- **os:** for creating directories and manage file paths
 - **shutil:** for copying files
 - **pandas:** for data manipulation and analysis.
 - **numpy:** for performing numerical and mathematical operations.
-- **matplotlib:** – for creating visualizations and plots.
+- **matplotlib:** for creating visualizations and plots.
 - **seaborn:**  for advanced visualizations
-- **ast(literal_eval):** – for parsing string-formatted lists/dictionaries safely
+- **ast(literal_eval):** for parsing string-formatted lists/dictionaries safely
 
 ## Project Files:
 - **Data_Wrangling_Project_Starter (2).html:** This HTML file is the converted version of the Jupyter notebook
