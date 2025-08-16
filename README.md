@@ -1,7 +1,7 @@
 # Netflix Project
 
 ## Introduction:
-This project analyzes datasets about Netflix content, including titles, genres, actors, and release years. The goal is to uncover trends and patterns in streaming content to better understand Netflix’s offerings.
+This project focuses on **Data Wrangling** and involves analyzing Netflix datasets, including titles, genres, actors, and release years. The goal is to uncover trends and patterns in streaming content, providing insights to better understand Netflix’s offerings
 
 ## Requirements:
 - **os:** for creating directories and manage file paths
